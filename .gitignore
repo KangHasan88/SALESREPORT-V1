@@ -1,0 +1,44 @@
+*.log
+.DS_Store
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+/auth.json
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+Homestead.json
+Homestead.yaml
+Thumbs.db
+# Local/generated patch tools
+tools/
+
+# Backup files generated during hotfix
+*.backup
+*.backup.*
+*.backup_*
+*.before_restore_original_sidebar.*
+*.layout-consistency.*
+*.heading-align.*
+*.heading-icon-align.*
+*.original-position.*
+*.spacing.*
+
+# Runtime/local files
+.env
+.env.*
+!.env.example
+storage/logs/*.log
+bootstrap/cache/*.php

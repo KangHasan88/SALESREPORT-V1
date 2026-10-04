@@ -1,0 +1,20 @@
+{
+  "theme": {
+    "primary_color": "#2563EB",
+    "accent_color": "#0F766E",
+    "navy_color": "#111827",
+    "background_color": "#F3F6FA",
+    "surface_color": "#F8FAFC",
+    "border_color": "#E2E8F0"
+  },
+  "features": {
+    "show_bottom_nav": true,
+    "history_search_on_dashboard": false,
+    "enable_webview_pages": true
+  },
+  "labels": {
+    "language": "id",
+    "app_title": "e-Request",
+    "login_subtitle": "Request, Approval, and Tracking"
+  }
+}

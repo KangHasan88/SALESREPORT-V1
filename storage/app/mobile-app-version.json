@@ -1,0 +1,11 @@
+{
+  "version_code": 25,
+  "version_name": "3.4",
+  "apk_url": "/downloads/e-request-approval.apk",
+  "force_update": false,
+  "release_notes": [
+    "File picker WebView dibuat explicit multi-select untuk upload banyak foto",
+    "Section Head WO bisa upload beberapa foto hasil pekerjaan",
+    "Tombol Done WO aktif setelah minimal 1 foto berhasil masuk"
+  ]
+}

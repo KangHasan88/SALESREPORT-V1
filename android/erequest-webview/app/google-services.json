@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270142824085",
+    "project_id": "e-request-approval",
+    "storage_bucket": "e-request-approval.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270142824085:android:2a82965b98bc3a9f18859c",
+        "android_client_info": {
+          "package_name": "com.sekarbumi.erequestapproval"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBY__NKbRi8st7iPnUPwyLYYZR8rGMKA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
